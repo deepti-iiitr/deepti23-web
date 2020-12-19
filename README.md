@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/i_am_deepti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="i_am_deepti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepti ." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepti ." height="30" width="40" /></a>
-<a href="https://instagram.com/deepti2314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deepti2314" height="30" width="40" /></a>
+<a href="https://instagram.com/deepti2314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deepti_2314" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deepti8496" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="deepti8496" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepti_iiitr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="deepti_iiitr" height="30" width="40" /></a>
 </p>
