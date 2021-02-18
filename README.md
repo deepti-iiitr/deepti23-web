@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepti</h1>
 <h3 align="center">CSE Sophomore at Indian Institute of Information Technology, Ranchi.</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti23-web&label=Profile%20views&color=0e75b6&style=flat" alt="deepti23-web" /> </p>
+
+![Alt text](https://dribbble.com/shots/7736965-Work-at-home/attachments/439076?mode=media)
+
+- 🔭 I’m currently working on **Flutter Projects**
+
 - 🌱 I’m currently learning **Flutter App Development**
 
 - 👨‍💻 All of my projects are available at [https://deepti23-web.github.io/](https://deepti23-web.github.io/)
@@ -24,6 +31,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepti23-web&show_icons=true&locale=en&layout=compact" alt="deepti23-web" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepti23-web&show_icons=true&locale=en" alt="deepti23-web" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepti23-web&" alt="deepti23-web" /></p>
+
 
 
 
