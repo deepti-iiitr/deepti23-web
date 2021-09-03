@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepti</h1>
-<h3 align="center">CSE Sophomore at Indian Institute of Information Technology, Ranchi.</h3>
+<h3 align="center">CSE Pre-Final Year at Indian Institute of Information Technology, Ranchi.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepti23-web&label=Profile%20views&color=0e75b6&style=flat" alt="deepti23-web" /> </p>
